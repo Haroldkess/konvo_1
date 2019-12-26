@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263596431509",
+    "firebase_url": "https://konvo1.firebaseio.com",
+    "project_id": "konvo1",
+    "storage_bucket": "konvo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263596431509:android:b40e677bb6ef0c7ae7e39c",
+        "android_client_info": {
+          "package_name": "com.example.konvo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263596431509-13atv9vmgb48dqvoh0r4fk7vvo4t2hfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.konvo_1",
+            "certificate_hash": "a94145781e21a5507130add56c80d67ebc03db82"
+          }
+        },
+        {
+          "client_id": "263596431509-jprkf2cekp3jp07eqhbkm2euk9qfld12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBFJPOGpv45XSCQs4xWXpcFm-6Ktweuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263596431509-jprkf2cekp3jp07eqhbkm2euk9qfld12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

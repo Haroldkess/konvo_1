@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>263596431509-0n43jnut8lo27se436kb6uahlh2sqfcp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.263596431509-0n43jnut8lo27se436kb6uahlh2sqfcp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>263596431509-13atv9vmgb48dqvoh0r4fk7vvo4t2hfp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCV1pph1K4Ry1W1iKdQxTwpZ-IPYL_LB2s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>263596431509</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.konvo1</string>
+	<key>PROJECT_ID</key>
+	<string>konvo1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>konvo1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:263596431509:ios:32331c7e14f0ba0ee7e39c</string>
+	<key>DATABASE_URL</key>
+	<string>https://konvo1.firebaseio.com</string>
+</dict>
+</plist>
